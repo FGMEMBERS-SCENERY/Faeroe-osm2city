@@ -1,0 +1,7 @@
+# osm2city__home_delta_FGSC-DEV_Faeroe_osm2city_
+# do not edit below this line
+# Last Written Sat Oct  7 14:20:19 2017
+#
+OBJECT_BUILDING_MESH_DETAILED _home_delta_FGSC-DEV_Faeroe_osm2city_city03443.ac -6.67881 61.78473 30.92 0
+OBJECT_STATIC lightmap-switch.xml -6.67881 61.78473 30.92 0
+# END osm2city__home_delta_FGSC-DEV_Faeroe_osm2city_

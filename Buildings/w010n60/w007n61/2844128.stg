@@ -1,0 +1,11 @@
+# osm2city__home_delta_FGSC-DEV_Faeroe_osm2city_
+# do not edit below this line
+# Last Written Sat Oct  7 14:20:19 2017
+#
+OBJECT_BUILDING_MESH_DETAILED _home_delta_FGSC-DEV_Faeroe_osm2city_city02929.ac -6.88162 61.52144 24.23 0
+OBJECT_STATIC lightmap-switch.xml -6.88162 61.52144 24.23 0
+OBJECT_BUILDING_MESH_DETAILED _home_delta_FGSC-DEV_Faeroe_osm2city_city03130.ac -6.80590 61.55375 46.46 0
+OBJECT_BUILDING_MESH_DETAILED _home_delta_FGSC-DEV_Faeroe_osm2city_city03131.ac -6.81501 61.55809 46.17 0
+OBJECT_BUILDING_MESH_ROUGH _home_delta_FGSC-DEV_Faeroe_osm2city_city13130.ac -6.80289 61.55373 42.29 0
+OBJECT_BUILDING_MESH_ROUGH _home_delta_FGSC-DEV_Faeroe_osm2city_city13131.ac -6.81641 61.55723 27.94 0
+# END osm2city__home_delta_FGSC-DEV_Faeroe_osm2city_
